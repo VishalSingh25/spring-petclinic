@@ -11,7 +11,7 @@ pipeline {
       steps {
         sh '''mvn clean verify sonar:sonar \\
   -Dsonar.projectKey=Petclinic \\
-  -Dsonar.host.url=http://172.31.46.178:9000 \\
+  -Dsonar.host.url=http://65.0.75.27:9000 \\
   -Dsonar.login=sqp_b3dce3389918b48fcb3ee89e38279be053f85765'''
       }
     }
