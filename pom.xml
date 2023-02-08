@@ -15,7 +15,7 @@
   <properties>
 
     <!--properties for sonarQube analysis -->
-    <sonar.host.url>http://172.31.247.243:9000</sonar.host.url>
+    <sonar.host.url>http://172.31.46.178:9000</sonar.host.url>
     <sonar.projectKey>Simple-Java-Maven-App</sonar.projectKey>
     <sonar.login>sqp_b3dce3389918b48fcb3ee89e38279be053f85765</sonar.login>
   
